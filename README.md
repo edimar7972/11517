@@ -4,7 +4,7 @@
 **Problema:** 11517 -- Exact Change
 ## Sobre a Solução
 Este diretório contém o código fonte gerado para solucionar o problema 11517
-do *Online Judge*. O problema recebeu veredito \Time limit exceeded", como mostrado na
-figura abaixo:
+do *Online Judge*. O problema recebeu veredito \Time limit exceeded",
+como mostrado na figura abaixo:
 ![Veredito](./11517-veredito.png)
 O programa foi desenvolvido em Python.
